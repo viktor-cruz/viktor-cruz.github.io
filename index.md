@@ -10,7 +10,7 @@ I turn messy data into clear, decision-ready insight.
 
 - **MCP LinkedIn mini-series (write-ups & visuals)**  
   Short posts summarizing parsing approach and insights.  
-  [LinkedIn Featured](https://www.linkedin.com/in/viktor-cruz/details/featured/)
+  [LinkedIn Featured][(https://www.linkedin.com/in/viktor-cruz/details/featured/)](https://www.linkedin.com/in/viktor-cruz/)
   
 - **Tennis — Height vs Return performance (ATP 1991–2024)**  
   Mixed-effects analysis of whether height hurts return on grass; figure + write-up.  
