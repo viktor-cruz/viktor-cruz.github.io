@@ -22,4 +22,4 @@ Data scientist with an economics backbone. I focus on useful models, clean engin
 
 **Resume:** [Download PDF](resume.pdf)  
 **LinkedIn:** https://www.linkedin.com/in/viktor-cruz  
-**Email:** your.email@example.com
+**Email:** viktormfcruz@gmail.com
